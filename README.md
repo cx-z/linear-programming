@@ -1,0 +1,3 @@
+# linear-programming
+用nodelink方法对负载均衡进行了线性规划求最佳解
+用的python库是pulp
